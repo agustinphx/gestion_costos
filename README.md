@@ -16,7 +16,7 @@
 ### Consigna
 ![consigna1](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/9a9178b6-f528-42a5-937e-3074860d184b)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-### Introducción al proyecto
+### Introducción
 #### Tipo de organización: Escuela de belleza
 #### Fundamentación: Consiste en una escuela de maquillaje dedicada a la limpieza facial, uñas, maquillaje profesional con técnicas actualizadas.
 #### Enfoque: Apunta a un mercado que está siendo muy demandado especialmente por las mujeres, la escuela cuenta con su servicio estrella basado en capacitaciones en la industria. Además se caracteriza por ofrecer una amplia variedad de diseños y modelos para lo que es bases y esmaltes de uñas, entre otros productos, priorizando la accesibilidad a todo público.
