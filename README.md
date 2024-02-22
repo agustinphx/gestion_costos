@@ -178,7 +178,67 @@
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+## Proyecto 4:‎ Análisis sectorial‎ ‎‎![icons8-pie-chart-report-script-50](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/e34b1354-5618-4496-aa59-91a2c45dfb15)
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+### Consigna
+![image](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/7332c586-ae3e-409c-b981-b560fd8fd54d)
+
+
+### Fundamentación
+#### La decisión de fabricar, comprar un insumo o de adquirir un servicio nos obliga casi siempre a incorporar una nueva estructura, la cual estará asociada a nuevos costos fijos.
+#### Es por ello que la escuela de belleza quiere saber si le conviene seguir comprando el esmalte de uñas a una organización externa o que la misma escuela comience a producirlos en una planta dedicada a dicha producción. ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+#### Es necesario tener en cuenta ciertos elementos que afectan a la toma de decisiones:
+#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/> Política comercial: La escuela de belleza tiene una clara preferencia por indagar en la propia producción de los insumos que requiere, si bien tiene una alianza con el proveedor Mia Secret por lo que prefiere es ver si le es viable fabricar en lugar de comprar para su nivel actual de ventas (alrededor de 1000 unidades mensuales)
+#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/> Riesgo de provisión: En relación a la política comercial, el proveedor si bien resulta ser de confianza, muchas veces tiene demoras para entregar el pedido completo por falta de stock, lo que conlleva en menores ingresos para la escuela.
+#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/> Inmovilización de capital: Los altos mandos que gerencian la escuela, vienen pensando desde hace meses en la posibilidad de poder realizar una gran inversión inicial, en vistas de que sería una decisión estratégica a mediano-largo plazo, por lo que encajaría perfectamente con inmovilizar una gran cantidad de capital durante algunos períodos.
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+####
+### Análisis comparativo de costos
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Elementos requeridos para fabricar:
+#### Polvo de tiza $120 costo variable
+#### Endurecedor $110 costo variable
+#### Maquinaria = $2.700.000 - $300.000 (vida residual) / 120 (meses) = $20.000 costo fijo
+#### Recurso humano = $180 costo fijo
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Costos de fabricar
+
+#### Siendo:
+#### CTF (Costo Total de fabricar)
+#### CV (Costo variable unitario de fabricar)
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+#### CTF = CF + Q * CV
+#### CTF = $20.180 + 1000 * $230
+#### CTF = $250.180
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+####  Costo de los esmaltes de uña en función de la cantidad a fabricar
+![image](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/e3f6612e-7436-4b49-8d3e-8ca0b115475a)
+
+#### Los esmaltes de uña de larga duración suponen un costo directo de $250.000 mensualmente en caso que se opte por producir una cantidad de 1000 unidades.
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Costos de comprar
+#### Siendo:
+#### CTC (Costo Total de Comprar)
+#### Q (cantidad)
+#### ca (costo adquisición unitario)
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+#### CTC = Q * ca
+#### CTC = 1000 * $300
+#### CTC = $300.000
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+####  Costo de los esmaltes de uña en función de la cantidad a comprar
+![image](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/055eb2ca-3dc6-48c9-bc69-4e4e45f46dae)
+
+#### Los esmaltes de uña de larga duración suponen un costo directo de $300.000 mensualmente para adquirir cantidad de 1000 unidades. A tener en cuenta, que el costo de adquisición es variable, ya que a mayor cantidad de unidades va variando el precio que se le abona al proveedor.
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+### 
+
 ## Herramienta utilizada: Excel ![icons8-ms-excel-48](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/e103657c-e678-42a2-9bfa-75ccc4beea13)
 
 https://www.microsoft.com/es-ar/microsoft-365/excel)
