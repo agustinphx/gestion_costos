@@ -233,7 +233,20 @@
 ![image](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/055eb2ca-3dc6-48c9-bc69-4e4e45f46dae)
 
 #### Los esmaltes de uña de larga duración suponen un costo directo de $300.000 mensualmente para adquirir cantidad de 1000 unidades. A tener en cuenta, que el costo de adquisición es variable, ya que a mayor cantidad de unidades va variando el precio que se le abona al proveedor.
+### 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+### Nivel de igualación de costos
+#### Donde la condición inicial como fundamento para este análisis, se debe a que el costo variable de producción debe ser mayor al costo de adquisición (cv < ca) ya que en el caso opuesto no tendría sentido efectuar dicho análisis y sería simplemente concretar la compra por la ventaja competitiva que tendría la otra organización para vender el producto elaborado.
+![image](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/11fdf616-35fe-4c8e-9159-742b79d60599)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+#### Q = IC = $20.180 / ($300 - $230)
+#### Q = 288 unidades.
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+### Conclusión
+#### A partir de 288 unidades conviene fabricar en lugar de comprar, caso contrario (menos de 288 unidades) conviene adquirirlos directamente desde el proveedor.
+
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
