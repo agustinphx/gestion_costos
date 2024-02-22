@@ -332,8 +332,10 @@
 #### Tabla descriptiva con 10 iteraciones para cada uno de los 3 tramos
 ![image](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/c4fafdfb-f8e1-4736-b969-ea3529867603)
 
-### Conclusión
-#### Tenemos una pendiente creciente, por lo que mientras más aumentan la cantidad de unidades a adquirir para vender, por consiguiente también aumenta la contribución marginal, lo que definimos como Contribución Marginal Creciente. De esta forma, la tendencia con resultados negativos se corta en el tramo 2 porque precisamente pasa de un resultado negativo hacia uno positivo. Además, en el tramo 66 comprobamos que cuando se producen las 656 unidades con la nueva maquinaria, tenemos una mayor contribución marginal y un mayor resultado final al que obtenemos con la maquinaria actual (cm = $290 , resultado final $168.320).
+### Insights
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Tenemos una pendiente creciente, por lo que mientras más aumentan la cantidad de unidades a adquirir para vender, por consiguiente también aumenta la contribución marginal, lo que definimos como Contribución Marginal Creciente. 
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> La tendencia con resultados negativos se corta en el tramo 2 porque precisamente pasa de un resultado negativo hacia uno positivo. 
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> En el tramo 66 comprobamos que cuando se producen las 656 unidades con la nueva maquinaria, tenemos una mayor contribución marginal y un mayor resultado final al que obtenemos con la maquinaria actual (cm = $290 , resultado final $168.320).
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ### 
 
