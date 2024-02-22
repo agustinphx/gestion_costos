@@ -50,7 +50,7 @@
 ![marginal2](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/ff3dd1cf-4a06-4798-9495-d3ad40037e3b)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-### Gráfico para obtener el Punto de Equilibrio
+### Gráfico para obtener el Punto de equilibrio
 ![image](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/535cb63c-1fed-42d7-8a6a-0cb1fe0f703e)
 
 #### Como se pueda apreciar, se marca el punto donde se juntan las líneas para PE(Q) = 1171 eje X y CF = $399.409,92 , siendo eje Y paralelo al eje X, al ser un costo constante que no varía en base al nivel de actividad.
