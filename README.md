@@ -179,7 +179,7 @@
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ## Proyecto 4:‎ Análisis sectorial‎ ‎‎![icons8-pie-chart-report-script-50](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/e34b1354-5618-4496-aa59-91a2c45dfb15)
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ### Consigna
 ![image](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/7332c586-ae3e-409c-b981-b560fd8fd54d)
 
@@ -196,7 +196,7 @@
 ####
 ### Análisis comparativo de costos
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Elementos requeridos para fabricar:
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Elementos requeridos para fabricar:
 #### Polvo de tiza $120 costo variable
 #### Endurecedor $110 costo variable
 #### Maquinaria = $2.700.000 - $300.000 (vida residual) / 120 (meses) = $20.000 costo fijo
@@ -239,7 +239,7 @@
 #### Donde la condición inicial como fundamento para este análisis, se debe a que el costo variable de producción debe ser mayor al costo de adquisición (cv < ca) ya que en el caso opuesto no tendría sentido efectuar dicho análisis y sería simplemente concretar la compra por la ventaja competitiva que tendría la otra organización para vender el producto elaborado.
 ![image](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/11fdf616-35fe-4c8e-9159-742b79d60599)
 #### Siendo:
-#### IC (igualación de costos, intersección de CTC y CTF)
+#### IC (igualación de costos, intersección entre CTC y CTF)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 #### Q = IC = $20.180 / ($300 - $230)
 #### Q = 288 unidades.
@@ -248,8 +248,92 @@
 ### Conclusión
 #### A partir de 288 unidades conviene fabricar en lugar de comprar, caso contrario (menos de 288 unidades) conviene adquirirlos directamente desde el proveedor.
 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+## Proyecto 5:‎ Discontinuidades‎ ‎‎ ![dis](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/07c06b31-5d60-4112-9aa5-402eb561e49b) ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+### Consigna
+![image](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/06bf9b42-b927-4aa4-8c15-9fbb77171a41)
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
+### Fundamentación
+#### La escuela decide analizar en base a sus niveles de ventas, a partir de qué cantidad empieza a tener un quiebre positivo para sus ingresos.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Teniendo en cuenta que el proveedor le ofrece el siguiente esquema de descuentos:
+#### De 51 hasta 100 unidades inclusive, un descuento del 3% .
+#### De 101 unidades en adelante, un descuento del 8% como tope.
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Elementos necesarios para fabricar:
+#### Polvo de tiza $120 costo variable
+#### Endurecedor $110 costo variable
+#### Maquinaria = $2.700.000 - $300.000 (vida residual) / 120 (meses) = $20.000 costo fijo
+#### Recurso humano = $180 costo fijo
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+#### 
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Modificaciones de los elementos con sus variaciones actuales:
+#### Maquina: $3.500.00 - $390.000 (Vida residual) / 120 (Meses) = $25.916 costo fijo
+#### Recurso humano: $360 costo fijo
+![image](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/3f6e4aa6-bc48-4a7e-a82b-e6b404ff42c7)
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Otros elementos que la escuela debe tener en cuenta:
+#### PVU (Precio de Venta Unitario) = $520
+#### Cantidad de unidades vendidas en el periodo anterior = 650 unidades.
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Cálculo con las ventas pasadas, las cuáles fueron de 650 unidades:
+#### Siendo:
+#### Ra (Resultado actual con la capacidad sin ampliar)
+#### Q (Cantidad)
+#### CM (Contribución marginal)
+#### CF (Costo fijo)
+#### Ra = Q * Cm - CF
+#### Ra = 650 * $290 - $20.180
+#### Ra = $168.320
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Se prevee alcanzar:
+#### Siendo:
+#### CFn (Costo fijo nuevo en base a la nueva estructura)
+#### PVU (Precio de venta unitario)
+#### CVn (Costo variable por adquirir n unidades)
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
+#### Qn = (Ra + CFn) / (PVU - CVn)
+#### Qn = ($168.320 + $26.276) / ($520 - $223)
+#### Qn= $194.596 / $296,9
+#### Qn= 656 unidades a producir para vender.
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Puntos de Equilibrios por tramo:
+#### Qt1 (Cantidad de equilibrio tramo 1) = CF / CMt1
+#### Qt1 = $26.276 / $290
+#### Qt1 = 91 unidades para el equilibrio en el tramo 1. Definimos que no es factible, ya que las operaciones deben para este tramo se comprenden desde 1 hasta 50 unidades.
+#### Qt2 (Cantidad de equilibrio tramo 2) = CF / CMt2
+#### Qt2 = $26.276 / $296,9
+#### Qt2 = 89 unidades para el equilibrio en el tramo 2. Definimos que es factible, ya que las operaciones para este tramo se comprenden desde 51 hasta 100 unidades.
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Cálculos de beneficio máximo para tramo 2 (de 51 a 100 unidades inclusive):
+#### Rat2 = (CMt2 * Q) - CFn
+#### Rat2 = ($296,9 * 100) - $26.276
+#### Rat2 = $29.690 - $26.276
+#### Rat2 = $3.414 beneficio máximo correspondiente al tramo 2.
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Para decidir si conviene el tramo 3 (de 101 a 150 unidades inclusive):
+#### Rat3 = (CMt3 * Q) - CFn
+#### Rat3 = ($308,4 *101) - $26.276
+#### Rat3 = $31.148,4 - $26.276
+#### Rat3 = $4.872,4 beneficio mayor al máximo beneficio del tramo 2 (Rat2) a partir de las 101 unidades.
+#### Rat3 = (CMt3 * Q) - CFn
+#### Rat3 = ($308,4 *150) - $26.276
+#### Rat3 = $46.260 - $26.276
+#### Rat3 = $19.984 beneficio máximo correspondiente al tramo 3.
+#### QRa = (Ra + CFn) / cm
+#### QRa = ($3.414 + $26.276) / $308,4
+#### QRa = $29.690 / $308,4
+#### QRa = 97 unidades, cae dentro del tramo 2 correspondiente entre 51 y 100 unidades. De esta forma este análisis queda anulado porque no se corresponde al nivel de operaciones de dichas unidades.
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+#### Tabla descriptiva con 10 iteraciones para cada uno de los 3 tramos
+![image](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/c4fafdfb-f8e1-4736-b969-ea3529867603)
+
+### Conclusión
+#### Tenemos una pendiente creciente, por lo que mientras más aumentan la cantidad de unidades a adquirir para vender, por consiguiente también aumenta la contribución marginal, lo que definimos como Contribución Marginal Creciente. De esta forma, la tendencia con resultados negativos se corta en el tramo 2 porque precisamente pasa de un resultado negativo hacia uno positivo. Además, en el tramo 66 comprobamos que cuando se producen las 656 unidades con la nueva maquinaria, tenemos una mayor contribución marginal y un mayor resultado final al que obtenemos con la maquinaria actual (cm = $290 , resultado final $168.320).
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ### 
 
