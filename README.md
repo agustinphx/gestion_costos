@@ -38,7 +38,7 @@
 ![consigna2](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/0088d7e4-5f91-4b10-a0f3-7eab9dd7703f)
 
 ### Análisis de costos 
-#### Análisis marginal en base al Servicio: Capacitaciones donde se requieren X cantidad de estudiantes para cubrir los costos y no caer en pérdidas ni obtener beneficios.
+#### Análisis marginal en base al servicio: Capacitaciones, donde se requieren X cantidad de estudiantes para cubrir los costos y no caer en pérdidas ni obtener beneficios.
 #### PVU (Precio Venta Unitario) = $679,6464560
 #### CVU (Costo Variable Unitario) = $338,5619812
 #### CF(Costo Fijo) = $399.409,92
@@ -88,7 +88,7 @@
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 ### Costos y contribuciones de cada producto
-#### <img src="https://img.icons8.com/plumpy/13/000000/sphere.png"/>  Siendo para cada producto:
+#### Siendo para cada producto:
 #### CFD n (Costos Fijos Directos producto n)
 #### CM n (Contribución Marginal producto n)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
