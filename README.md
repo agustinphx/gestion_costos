@@ -341,6 +341,8 @@
 
 ## Herramienta utilizada: Excel ![icons8-ms-excel-48](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/e103657c-e678-42a2-9bfa-75ccc4beea13)
 
-https://www.microsoft.com/es-ar/microsoft-365/excel)
+#### https://www.microsoft.com/es-ar/microsoft-365/excel)
+### 
+### 
 
 #### Bibliografia consultada: Analisis Marginal, El 3 Edicion. Autor Amaro Yardin. Editorial: OSMAR D. BUYATTI.
