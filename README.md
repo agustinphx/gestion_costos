@@ -205,8 +205,8 @@
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Costos de fabricar
 
 #### Siendo:
-#### CTF (Costo Total de fabricar)
-#### CV (Costo variable unitario de fabricar)
+#### CTF (costo total de fabricar)
+#### CV (costo variable unitario de fabricar)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 #### CTF = CF + Q * CV
 #### CTF = $20.180 + 1000 * $230
@@ -220,7 +220,7 @@
 
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/>  Costos de comprar
 #### Siendo:
-#### CTC (Costo Total de Comprar)
+#### CTC (costo total de comprar)
 #### Q (cantidad)
 #### ca (costo adquisición unitario)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -239,7 +239,7 @@
 #### Donde la condición inicial como fundamento para este análisis, se debe a que el costo variable de producción debe ser mayor al costo de adquisición (cv < ca) ya que en el caso opuesto no tendría sentido efectuar dicho análisis y sería simplemente concretar la compra por la ventaja competitiva que tendría la otra organización para vender el producto elaborado.
 ![image](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/11fdf616-35fe-4c8e-9159-742b79d60599)
 #### Siendo:
-#### IC (igualación de costos)
+#### IC (igualación de costos, intersección de CTC y CTF)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 #### Q = IC = $20.180 / ($300 - $230)
 #### Q = 288 unidades.
