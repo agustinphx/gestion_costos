@@ -129,13 +129,14 @@
          0,5276
 
 #### V = $ 3.388.698,57
+#### Se necesitan alcanzar las ventas por un monto de $3.388.698,57 para cubrir los costos totales. 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 ### Validación
 #### Para un monto de ventas de $3.388.698,57, validamos en base al EERR obtenido para cada producto.
 ![image](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/99c20f21-1a96-429a-8020-1225c4ebe031)
 
-#### Se necesitan alcanzar las ventas por un monto de $3.388.698,57 para cubrir los costos totales. Además, la escuela posee un Estado de Resultados que le permite afirmar que ninguno de sus productos le generan déficit en términos monetarios.
+#### Además, la escuela posee un Estado de Resultados que le permite afirmar que ninguno de sus productos le generan déficit en términos monetarios.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 ### Punto de equilibrio en términos físicos para producción múltiple
