@@ -238,7 +238,6 @@
 ### Nivel de igualación de costos
 #### Donde la condición inicial como fundamento para este análisis, se debe a que el costo variable de producción debe ser mayor al costo de adquisición (cv < ca) ya que en el caso opuesto no tendría sentido efectuar dicho análisis y sería simplemente concretar la compra por la ventaja competitiva que tendría la otra organización para vender el producto elaborado.
 ![image](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/11fdf616-35fe-4c8e-9159-742b79d60599)
-###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 #### Siendo:
 #### IC (igualación de costos)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
