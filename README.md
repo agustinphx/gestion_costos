@@ -1,8 +1,9 @@
 # Costos ![icons8-costs-64](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/e1b1e8c4-f84a-4873-8c1e-64ea6132b549)
 
-## Este repositorio contiene todos los proyectos realizados para la asignatura: "Costos" de la Universidad Católica de Santa Fe.
-###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-## La parte práctica se fundamenta en los contenidos:
+Este repositorio contiene todos los proyectos realizados para la asignatura: "Costos" de la Universidad Católica de Santa Fe.
+###  ‎ ‎ ‎ ‎ ‎
+‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+### La asignatura está compuesta por los siguientes contenidos:
 #### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Introducción a los costos fijos y variables.
 #### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> PE (Punto de Equilibrio) en términos físicos y monetarios.
 #### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Contribución marginal y costo de oportunidad.
