@@ -1,6 +1,6 @@
 # Costos ![icons8-costs-64](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/e1b1e8c4-f84a-4873-8c1e-64ea6132b549)
 
-Este repositorio contiene todos los proyectos realizados para la asignatura: "Costos" de la Universidad Católica de Santa Fe.
+Este repositorio contiene los proyectos realizados para la asignatura: "Costos" de la Universidad Católica de Santa Fe.
 ###  ‎ ‎ ‎ ‎ ‎
 ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ### La asignatura está compuesta por los siguientes contenidos:
@@ -345,5 +345,3 @@ Este repositorio contiene todos los proyectos realizados para la asignatura: "Co
 #### https://www.microsoft.com/es-ar/microsoft-365/excel)
 ### 
 ### 
-
-#### Bibliografia consultada: Analisis Marginal, El 3 Edicion. Autor Amaro Yardin. Editorial: OSMAR D. BUYATTI.
